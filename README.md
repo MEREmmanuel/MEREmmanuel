@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estoy estudiando Ingeniería Informática.<br>👯 Estoy cursando Quality Control + Automation.<br>🤝 Me encanta trabajar en equipo, pero también desarrollar solo.<br>🌱 Disfruto aprender nuevas tecnologías de desarrollo.<br>💬 No tengo área definida en el desarrollo.<br>⚡ Estoy ansioso por entrar a la industria.
+🔭 Ingeniería Informática.<br>👯 Backend Development.<br>🤝 Java Development.<br>⚡ Apasionado de la programación.
 
 
 ## 🌐 Socials:
