@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Ingeniería Informática.<br>👯 Backend Development.<br>🤝 Java Development.<br>⚡ Apasionado de la programación.
+🎓 I'm a Computer Engineering student.<br>🚀 Passionate about Backend Development, eager to learn and build efficient systems.<br>
 
 
 ## 🌐 Socials:
